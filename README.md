@@ -24,6 +24,8 @@ The project is currently under active development, and I am working on implement
 
 🚀 The project is still in its early stages! A demo will be available soon, showcasing the ability to record mock interview sessions and save responses.  
 
+<img src="assets/open-page.png" alt="Open Page" width="500"/>
+
 [[Demo Coming Soon](https://via.placeholder.com/800x400?text=Demo+Coming+Soon)]
 > **Note:** This is an early-stage build. Stay tuned for future updates!  
 
@@ -66,4 +68,4 @@ Make sure you have the following installed on your system:
 6. Open your browser and visit:
    ```sh
    http://localhost:3000
-   
+
