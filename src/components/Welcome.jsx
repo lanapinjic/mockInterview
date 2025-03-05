@@ -1,10 +1,12 @@
 import "../css/main.css"
 import React from 'react';
 import { NavLink, useLocation } from "react-router-dom";
-
-
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
+
+
+{/* Welcome Page -- Sits above all other pages*/}
+
 
 //Pages in Navagation 
 const navigation = [

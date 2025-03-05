@@ -1,6 +1,7 @@
 
 import React from 'react';
 
+{/* Main Dashboard Page */}
 
 export default function DashboardPage() {
   return (

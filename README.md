@@ -66,3 +66,4 @@ Make sure you have the following installed on your system:
 6. Open your browser and visit:
    ```sh
    http://localhost:3000
+   

@@ -1,6 +1,8 @@
 
 import React from 'react';
 
+{/* New Session Page */}
+
 
 export default function SessionPage() {
     return (
