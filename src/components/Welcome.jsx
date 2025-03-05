@@ -8,7 +8,7 @@ import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 {/* Welcome Page -- Sits above all other pages*/}
 
 
-//Pages in Navagation 
+//Pages in Navigation 
 const navigation = [
     { name: "Dashboard", to: "/dashboard" },
     { name: "New Session", to: "/session" },
